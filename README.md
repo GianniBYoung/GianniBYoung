@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @GianniBYoung
-- 👀 I’m interested in Linux, Scripting, web scraping, and p2p systems
-- 🌱 I’m currently learning Ansible, Golang and improving my system administration skills
+- 👀 I’m interested in Linux, Scripting, Ebooks/ereaders and p2p systems
 - 📫 Wanna chat? Ask for my telegram
 
 <!---
