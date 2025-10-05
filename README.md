@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GianniBYoung
-- 👀 I’m interested in Linux, Scripting, Ebooks/ereaders and p2p systems
+- 👀 I’m interested in Linux, Scripting, Ebooks/ereaders and secure containerization
 - 📫 Wanna chat? Ask for my telegram
 
 <!---
